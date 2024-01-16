@@ -1,0 +1,17 @@
+{
+  "name": "wsb",
+  "version": "1.0.0",
+  "description": "Waktu Sembahyang Brunei",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm run -r dev",
+    "test": "pnpm run -r test"
+  },
+  "keywords": [
+    "sembahyang",
+    "brunei",
+    "wsb"
+  ],
+  "author": "lordsayur",
+  "license": "ISC"
+}
