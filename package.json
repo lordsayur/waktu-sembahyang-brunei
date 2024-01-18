@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "pnpm run -r dev",
-    "build": "pnpm  --filter @wsb/web-app-nuxt-3... run build",
+    "generate": "pnpm  --filter @wsb/web-app-nuxt-3... run generate",
     "test": "pnpm run -r test"
   },
   "keywords": [
