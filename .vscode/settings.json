@@ -68,5 +68,6 @@
       { "label": "🚀", "detail": "Deploying stuff" },
       { "label": "✨", "detail": "Introducing new features" }
     ]
-  }
+  },
+  "GitHooks.hooksDirectory": "c:\\Users\\omar.ibrahim\\source\\repos\\Personal\\waktu-sembahyang-brunei\\.git\\hooks"
 }
