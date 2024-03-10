@@ -6,7 +6,7 @@ export default defineNuxtConfig({
     registerType: "autoUpdate",
     manifest: {
       name: "Waktu Sembahyang Brunei",
-      short_name: "WSB",
+      short_name: "WSB Next",
       display: "standalone",
       orientation: "portrait-primary",
       theme_color: "#455A64",

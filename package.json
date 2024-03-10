@@ -4,7 +4,7 @@
   "description": "Waktu Sembahyang Brunei",
   "private": true,
   "scripts": {
-    "dev": "pnpm run -r dev",
+    "dev": "pnpm --filter @wsb/web-app-nuxt-3... run dev",
     "generate": "pnpm  --filter @wsb/web-app-nuxt-3... run generate",
     "test": "pnpm run -r test"
   },
